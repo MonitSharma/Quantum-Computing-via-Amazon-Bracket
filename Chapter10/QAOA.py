@@ -4,11 +4,6 @@
 # In[ ]:
 
 
-#Chapter 10 - Amazon Braket Hybrid Jobs, Pennylane and Containers
-#© 2021, 2022 Packt Publishing
-
-#Written by Alex Khan
-
 #QAOA.py 
 #use with Chapter 10 - Amazon Braket Hybrid Jobs, Pennylane and Containers.ipynb
 
